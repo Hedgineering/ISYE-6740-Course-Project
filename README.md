@@ -17,6 +17,12 @@ TO DO
 3. finish the report paper: add visualizations for regression, finish up remaining sections in report
 4. SUBMIT!
 
+report sections to start for rahul:
+5.6 Regression Analysis to Predict Delay Times
+6 Results
+7 Analysis and Conclusions
+
+
 here is the report link: https://www.overleaf.com/2861633537ccsdtwrkrgsr#842e2a
 here is the data source for final routes table link: https://gtvault-my.sharepoint.com/:f:/g/personal/rhegde33_gatech_edu/Em31U6IYWcROlZKSoIPd558Bixeca5OFQOC4DcruDj6yuQ?e=gWlGte 
 rest of the code and airports table csv is in github!
